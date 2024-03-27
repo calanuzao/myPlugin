@@ -1,4 +1,5 @@
 Template for creating and building JUCE plugins in 2024 with CLion.
+Original Template : https://github.com/sudara/pamplejuce
 
 Out of the box, it:
 
